@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohaiminul Hasan Muaz @muaz-mztech
+# 👋 Hi, I’m Mohaiminul Hasan Muaz ⛳️ @muaz-mztech
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Node JS, React
 - 💞️ I’m looking to collaborate on MzTech
